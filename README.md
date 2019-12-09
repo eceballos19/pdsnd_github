@@ -13,6 +13,8 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
-### Add add number of lines displayed in a query
+### Add number of lines displayed in a query
 The visualization for the end user must be very simple
 
+### Remove number of columns displayed in a query
+remove columns to navigate easily
