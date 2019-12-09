@@ -19,3 +19,5 @@ Fix Month options
 ### look&Feel
 change primary colors to corporate colors
 
+### Title
+Change Title
