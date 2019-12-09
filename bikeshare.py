@@ -10,7 +10,10 @@ new_york_city = 'new_york_city.csv'
 washington = 'washington.csv'
 
 ## Filenames
-Change Descriptions for final users
+Change final users Descriptions
+
+## variable days
+Add variable days optios
 
 
 def get_data_city():
