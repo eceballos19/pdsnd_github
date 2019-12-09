@@ -9,6 +9,9 @@ chicago = 'chicago.csv'
 new_york_city = 'new_york_city.csv'
 washington = 'washington.csv'
 
+## Filenames
+Change Descriptions for final users
+
 
 def get_data_city():
     """

@@ -21,3 +21,6 @@ change primary colors to corporate colors
 
 ### Title
 Change Title
+
+### Add description
+Add project description for final users
